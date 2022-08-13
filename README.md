@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/3ov9jNziFTMfzSumAw/giphy.gif" width="600"/>
 </div>
 
 <div id="badges" align="center">
@@ -35,7 +35,9 @@ I am a iOS Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :man_cartwheeling: In my free time, I am doing workout trainings and learning Algorithms
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Maximercurius-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/MAXIMERCURIUS)
+- :mailbox:How to reach me: 
+<a href="https://t.me/Maximercurius"><img src="https://im.wampi.ru/2022/07/30/telegram.png" alt="telegram.png" border="30"></a>
+[![Twitter Badge](https://img.shields.io/badge/-Maximercurius-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/MAXIMERCURIUS)
 
 ---
 
